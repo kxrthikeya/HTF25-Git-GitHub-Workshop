@@ -8,4 +8,4 @@ Create a pull request with the best meme you find!
 
 **Deadline - 12 am**
 
-![image](https://github.com/user-attachments/assets/...)
+![image](https://github.com/kxrthikeya/HTF25-Git-GitHub-Workshop/blob/main/aa2bqh.jpg?raw=true)
